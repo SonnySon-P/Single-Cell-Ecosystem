@@ -1,1 +1,1 @@
-# Single-Cell-Ecosystem
+# Single Cell Ecosystem
